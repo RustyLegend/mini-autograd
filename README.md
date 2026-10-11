@@ -109,7 +109,7 @@ Clone the project, install the dependencies, and run the demo:
 
 ```bash
 pip install -r requirements.txt
-python3 examples/xor_demo.py
+python examples/xor_demo.py
 ```
 
 The demo trains a small multi-layer perceptron on the XOR pattern and prints the loss during training followed by the final predictions.
